@@ -5,7 +5,7 @@
 
 * Me chamo Ryan
 
-* Estudante (7°Período) de Ciências da Computação na UFJ
+* Graduado em  Ciências da Computação pela [Universidade Federal de Jataí (UFJ)](https://portalufj.jatai.ufg.br/)
 
 * Em busca de oportunidades para aplicar o conhecimento
 
